@@ -1,0 +1,2 @@
+bc1162d0a8a6c5b139084cb965c8f914c0e9c0b3570e36e85b020fa69eaa80e4  estudio-do-livro-1.1.1-cpanel.zip
+397905c0f256d3e21921a8d5e667e31550f1a3884642c9c9d63c497e2640ca87  estudio-do-livro-1.1.1-guias.zip
